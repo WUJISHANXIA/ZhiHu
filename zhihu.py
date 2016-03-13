@@ -15,9 +15,9 @@ class ZhiHu:
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36',
         }
         self.data={
-            '_xsrf':'78065429b0cd0bce6db2ccdac5d78545',
-            'password':'luozixing520',
-            'email':'1536736414@qq.com',
+            '_xsrf':'',
+            'password':'',
+            'email':'',
         }
     def login(self):
         try:
